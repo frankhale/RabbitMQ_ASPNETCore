@@ -1,5 +1,8 @@
 # RabbitMQ_ASPNETCore
-Using RabbitMQ to communicate between two ASPNET Core APIs
 
-Start both projects. One API will send a message to the other and display the
-results in the console.
+Demonstrates using RabbitMQ to communicate between two ASPNET Core APIs
+
+To see this in action start both projects and both APIs will send a message to
+each other.
+
+REQUIRES: RabbitMQ to be installed and running
